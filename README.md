@@ -1,4 +1,5 @@
-- 👋 Hi, I’m lionYao
+<img src="https://komarev.com/ghpvc/?username=yaolinhong"></img>
+- 👋 Hi, I’m lionYao 
 - 📫 Reach me by email yaolinhong1024@gmail.com
 - [blog](https://github.com/yaolinhong/blog)
 
